@@ -10,8 +10,18 @@ h1,h2 {
 h1 {
     border-bottom:  1px solid black;
 }
-
 em {
     font-family:    serif;
 }
-
+.greentea {
+    color:          darkseagreen;
+}
+.raspberry {
+    color:          blue;
+}
+.blueberry {
+    color:          purple;
+}
+.cranberry {
+    color:          darkred;
+}
