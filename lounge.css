@@ -1,17 +1,23 @@
 body {
     font-family:    sans-serif;
+    border:         2px solid darkslategray;
+    margin-left:    20%;
+    margin-right:   20%;
+    padding-left:   25px;
+    padding-right:  25px;
+    background:     #F0f2e2
 }
 p {
     color:          maroon;
 }
 h1,h2 {
-    color:          gray;
+    color:          darkslategrey;
 }
 h1 {
-    border-bottom:  1px solid black;
+    border-bottom:  2px solid darkslategray;
 }
 h2 {
-    underline:      1px solid gray;
+    text-decoration:underline;
 }
 em {
     font-family:    serif;
